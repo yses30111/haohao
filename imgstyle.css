@@ -1,0 +1,79 @@
+/*頭貼*/
+.perimg{
+    float: left;
+    width:300px ;
+    height:400px;
+    padding:0px ;
+    border-radius: 200px;
+    margin:80px 10px 0px 80px;
+}
+/*ig圖片*/
+.ig{
+    clear: right;
+    width:80px ;
+    height:80px;
+    padding:0px  ;
+    margin-left: 0px;
+}
+/*fb圖片*/
+.fb{
+    clear: right;
+    width:80px ;
+    height:80px;
+    margin: 0px 10px;
+    padding:0px ;
+}
+
+.email{
+    clear: right;
+    width: 80px;
+    height:80px;
+    margin: 0px 2px;
+    padding:0px ;
+}
+
+/*活動經歷圖片*/
+.photo{
+    
+    width:230px ;
+    height:160px;
+    margin-left:-95px;
+    margin-top:20px;
+    border-radius: 20px;
+    border-style: dotted;
+
+}
+
+/*專業證照*/
+.photo1{
+    float: left;
+    width: 350px;
+    height:250px;
+    margin-left:250px;
+    margin-right:40px;
+    margin-top:50px;
+    border-radius: 20px;
+    border-style: dotted;
+
+}
+.photo2{
+    float: left;
+    width: 350px;
+    height:250px;
+    margin-left:250px;
+    margin-right:100%;
+    margin-top:40px;
+    border-radius: 20px;
+    border-style: dotted;
+
+}
+.photo3{
+    float: left;
+    width: 350px;
+    height:250px;
+    margin-left:250px;
+    margin-top:40px;
+    border-radius: 20px;
+    border-style: dotted;
+
+}   

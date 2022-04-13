@@ -1,0 +1,361 @@
+
+/*第二層框架購*/
+.per{
+    margin-top:60px;
+    margin-right:100px;
+    margin-left:100px;
+    margin-bottom:100px;
+    border-style:outset ridge;
+    border-width:8px ;
+    border-radius:50px ;
+    height: 3200px;
+    width:85% ;
+    background-color:#93FF93;
+    float: left;
+ 
+ 
+}
+/*專業技能*/
+.skill{
+    
+    margin:30px 20px 50px 20px;
+    border-style:outset ridge;
+    border-width:4px ;
+    border-radius:50px ;
+    height: 25%;
+    width:45% ;
+    background-color:#bbe5ff;
+    float: left;
+    text-align: center;
+ 
+}
+/*程式技能*/
+.skill2{
+    float:right;
+    margin:30px 20px 50px 20px;
+    border-style:outset ridge;
+    border-width:4px ;
+    border-radius:50px ;
+    height: 25%;
+    width:45% ;
+    background-color:#bbe5ff;
+    float: left;
+    text-align: center;
+ 
+}
+
+/*個介內容*/
+.perint{
+    float:right;
+    padding:0px ;
+    margin-right:100px ;
+    margin-top:80px ;
+    margin-bottom: 10px;
+    font-size:22px ;
+    text-align: center;
+    font-family:"標楷體";
+    width: 50%;
+}
+
+/*社群圖版型*/
+.perphoto{
+    float:left;
+    padding:0px ;
+    margin:10px 200px 60px 90px;
+    width: 50%;
+}
+/*分隔線*/
+hr{
+    size: 5px;
+    width: 1200px;
+}
+
+/*java圓圈*/
+.java{
+    margin-top: 60px;
+}
+.g-process1{
+    float: left;
+    width: 150pt;
+    height:150pt;
+    border-radius:50%;
+    background:conic-gradient(#BEBEBE 0,#D0D0D0 35%,#FF7575 25%) ;
+    margin:30px 30px 30px 150px ;
+}
+.inside-circle1{
+    float:left;
+    width:120pt;
+    height:120pt;
+    border-radius:50%;
+    background-color: #9FFFFF;
+    position: relative;
+    top: 15pt;
+    left: 15pt;
+    text-align: center;
+   
+}
+/*C#圓圈*/
+.c{
+    margin-top: 60px;}
+.g-process2{
+    float: left;
+    width: 150pt;
+    height:150pt;
+    border-radius:50%;
+    background:conic-gradient(#BEBEBE 0,#D0D0D0 25%,#FF7575 15%) ;
+    margin:30px 30px 30px 30px ;
+}
+.inside-circle2{
+    float:left;
+    width:120pt;
+    height:120pt;
+    border-radius:50%;
+    background-color: #9FFFFF;
+    position: relative;
+    top: 15pt;
+    left: 15pt;
+    text-align: center;
+   
+}
+/*javascirp圓圈*/
+.javascirp{
+    margin-top: 25px;}
+.g-process3{
+    float: left;
+    width: 150pt;
+    height:150pt;
+    border-radius:50%;
+    background:conic-gradient(#BEBEBE 0,#D0D0D0 50%,#FF7575 40%) ;
+    margin:30px 30px 30px 30px ;
+}
+.inside-circle3{
+    float:left;
+    width:120pt;
+    height:120pt;
+    border-radius:50%;
+    background-color: #9FFFFF;
+    position: relative;
+    top: 15pt;
+    left: 15pt;
+    text-align: center;
+   
+}
+/*HTML圓圈*/
+.html{
+    margin-top: 60px;}
+.g-process4{
+    float: left;
+    width: 150pt;
+    height:150pt;
+    border-radius:50%;
+    background:conic-gradient(#BEBEBE 0,#D0D0D0 40%,#FF7575 30%) ;
+    margin:30px 30px 30px 30px ;
+}
+.inside-circle4{
+    float:left;
+    width:120pt;
+    height:120pt;
+    border-radius:50%;
+    background-color: #9FFFFF;
+    position: relative;
+    top: 15pt;
+    left: 15pt;
+    text-align: center;
+   
+}
+/*CSS圓圈*/
+.css{
+    margin-top: 60px;}
+.g-process5{
+    float: left;
+    width: 150pt;
+    height:150pt;
+    border-radius:50%;
+    background:conic-gradient(#BEBEBE 0,#D0D0D0 60%,#FF7575 50%) ;
+    margin:30px 30px 30px 150px ;
+}
+.inside-circle5{
+    float:left;
+    width:120pt;
+    height:120pt;
+    border-radius:50%;
+    background-color: #9FFFFF;
+    position: relative;
+    top: 15pt;
+    left: 15pt;
+    text-align: center;
+   
+}
+/*Cooking圓圈*/
+.cooking{
+    margin-top: 60px;}
+.g-process6{
+    float: left;
+    width: 150pt;
+    height:150pt;
+    border-radius:50%;
+    background:conic-gradient(#BEBEBE 0,#D0D0D0 8%,#FF7575 7%) ;
+    margin:30px 30px 30px 30px ;
+}
+.inside-circle6{
+    float:left;
+    width:120pt;
+    height:120pt;
+    border-radius:50%;
+    background-color: #9FFFFF;
+    position: relative;
+    top: 15pt;
+    left: 15pt;
+    text-align: center;
+   
+}
+/*making圓圈*/
+.making{
+    margin-top: 60px;}
+.g-process7{
+    float: left;
+    width: 150pt;
+    height:150pt;
+    border-radius:50%;
+    background:conic-gradient(#BEBEBE 0,#D0D0D0 40%,#FF7575 30%) ;
+    margin:30px 30px 30px 30px ;
+}
+.inside-circle7{
+    float:left;
+    width:120pt;
+    height:120pt;
+    border-radius:50%;
+    background-color: #9FFFFF;
+    position: relative;
+    top: 15pt;
+    left: 15pt;
+    text-align: center;
+   
+}
+/*Sleeping圓圈*/
+.sleeping{
+    margin-top: 60px;}
+.g-process8{
+    float: left;
+    width: 150pt;
+    height:150pt;
+    border-radius:50%;
+    background:conic-gradient(#BEBEBE 0,#D0D0D0 20%,#FF7575 10%) ;
+    margin:30px 30px 30px 30px ;
+}
+.inside-circle8{
+    float:left;
+    width:120pt;
+    height:120pt;
+    border-radius:50%;
+    background-color: #9FFFFF;
+    position: relative;
+    top: 15pt;
+    left: 15pt;
+    text-align: center;
+   
+}
+
+
+
+/*時間線1*/
+.time1{
+    float: left;
+    width: 800pt;
+    height:5pt;
+    background:#97CBFF	 ;
+    margin:80px 30px 30px 110px ;
+}
+/*時間線2*/
+.time2{
+    float: left;
+    width: 800pt;
+    height:5pt;
+    background:#97CBFF	 ;
+    margin:80px 30px 30px 110px ;
+}
+
+/*學歷文字*/
+.t1{
+    margin:80px 0px 0px 100px ;
+}
+/*活動經歷文字*/
+.t2{
+    margin:300px 0px 0px 100px ;
+}
+/*時間線文字*/
+.circle-text1{
+    margin:80px 0px 0px -100px ;
+    width:250px ;
+    text-align:center;
+}
+
+/*時間線圓圈*/
+.circle1{
+    float:left;
+    width:40pt;
+    height:40pt;
+    border-radius:50%;
+    background-color: #2894FF;
+    position: relative;
+    top: -15pt;
+    left: 100pt;
+    text-align: center;
+}
+.circle2{
+    float:left;
+    width:40pt;
+    height:40pt;
+    border-radius:50%;
+    background-color: #2894FF;
+    position: relative;
+    top: -15pt;
+    left: 250pt;
+    text-align: center;
+}
+.circle3{
+    float:left;
+    width:40pt;
+    height:40pt;
+    border-radius:50%;
+    background-color: #2894FF;
+    position: relative;
+    top: -15pt;
+    left: 400pt;
+    text-align: center;
+}
+.circle4{
+    float:left;
+    width:40pt;
+    height:40pt;
+    border-radius:50%;
+    background-color: #2894FF;
+    position: relative;
+    top: -15pt;
+    left: 550pt;
+    text-align: center;
+}
+/*專業證照文字*/
+.t3{
+    margin:400px 0px 0px 100px ;
+}
+
+/*證照介紹*/
+.t4{
+    float: right;
+    margin:140px 200px 0px 0px ;
+    text-align: center;
+    font-size:40px;
+}
+.t5{
+    float: right;
+    margin:-160px 240px 0px 0px ;
+    text-align: center;
+    font-size:40px;
+}
+.t6{
+    float: right;
+    margin:140px 320px 0px 0px ;
+    text-align: center;
+    font-size:40px;
+}
